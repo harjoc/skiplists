@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+  <trackList>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=0.000</vlc:option>
+        <vlc:option>stop-time=51.646</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=58.987</vlc:option>
+        <vlc:option>stop-time=122.526</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=125.263</vlc:option>
+        <vlc:option>stop-time=132.767</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=136.022</vlc:option>
+        <vlc:option>stop-time=391.074</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=405.250</vlc:option>
+        <vlc:option>stop-time=448.289</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=452.844</vlc:option>
+        <vlc:option>stop-time=547.445</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=549.232</vlc:option>
+        <vlc:option>stop-time=1305.877</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=1313.283</vlc:option>
+        <vlc:option>stop-time=1317.962</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=1323.801</vlc:option>
+        <vlc:option>stop-time=1325.004</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=1333.132</vlc:option>
+        <vlc:option>stop-time=1334.488</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=1361.250</vlc:option>
+        <vlc:option>stop-time=1366.573</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=1372.179</vlc:option>
+        <vlc:option>stop-time=1375.833</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=1380.436</vlc:option>
+        <vlc:option>stop-time=1390.318</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=1396.904</vlc:option>
+        <vlc:option>stop-time=3417.689</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3432.230</vlc:option>
+        <vlc:option>stop-time=3446.310</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3450.420</vlc:option>
+        <vlc:option>stop-time=3452.368</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3463.847</vlc:option>
+        <vlc:option>stop-time=3478.077</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3485.038</vlc:option>
+        <vlc:option>stop-time=3683.476</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3686.407</vlc:option>
+        <vlc:option>stop-time=3715.656</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3719.556</vlc:option>
+        <vlc:option>stop-time=3747.944</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3750.054</vlc:option>
+        <vlc:option>stop-time=3752.801</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3756.099</vlc:option>
+        <vlc:option>stop-time=3768.188</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=3771.654</vlc:option>
+        <vlc:option>stop-time=4782.611</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=4784.923</vlc:option>
+        <vlc:option>stop-time=4788.356</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=4791.172</vlc:option>
+        <vlc:option>stop-time=4796.145</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=4799.183</vlc:option>
+        <vlc:option>stop-time=5573.280</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=5578.253</vlc:option>
+        <vlc:option>stop-time=6642.488</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=6646.106</vlc:option>
+        <vlc:option>stop-time=6669.303</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>file:///./The.Game.1997.720p.BluRay.mp4</location>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:option>start-time=6671.582</vlc:option>
+        <vlc:option>stop-time=36000.000</vlc:option>
+      </extension>
+    </track>
+  </trackList>
+</playlist>
